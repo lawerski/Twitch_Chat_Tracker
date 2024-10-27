@@ -1,11 +1,17 @@
 const tmi = require('tmi.js');
 const fs = require('fs');
+const express = require('express');
+const app = express();
+const PORT = 3001;
 const client = new tmi.Client({
 	channels: [ 'delordione' ]
 });
 
 client.connect();
 
+  app.listen(PORT, () => {
+    console.log(`Serwer działa na http://localhost:${PORT}`);
+  });
 function extractTextAfterAt(text) {
     // Find the index of '@'
     var atIndex = text.indexOf('@');
@@ -37,26 +43,21 @@ let P1Value = 0;
 let M1Value = 0;
 client.on('message', (channel, tags, message, self, id) => {
 	// "Alca: Hello, World!"
-	console.log(`${tags['display-name']}: ${message}`);
 	if(self)return
 
 //Message count
 	if (msgCtn.has((tags['display-name']))){
 		msgCtn.set(tags['display-name'],(msgCtn.get(tags["display-name"])+1));
-		console.log([...msgCtn]);
 }else{
 	msgCtn.set(tags['display-name'],1);
-	console.log([...msgCtn]);
 }
 // Mentions count
 if (message.includes("@")){
 	if(extractTextAfterAt(message)!= channel){
 	if(repCTN.has(extractTextAfterAt(message))){
 		repCTN.set(extractTextAfterAt(message),(repCTN.get(extractTextAfterAt(message)+1)))
-		console.log(...repCTN)
 	}else{
 		repCTN.set(extractTextAfterAt(message),1)
-		console.log(...repCTN)
 	}
 }}
 
@@ -64,10 +65,8 @@ if (message.includes("@")){
 if(message.includes("@")&&message.includes("XD")){
 	if(XDCTN.has(extractTextAfterAt(message))){
 		XDCTN.set(extractTextAfterAt(message),(repCTN.get(extractTextAfterAt(message)+1)))
-		console.log(...XDCTN)
 	}else{
 		XDCTN.set(extractTextAfterAt(message),1)
-		console.log(...XDCTN)
 	}
 
 }
@@ -90,10 +89,8 @@ if(message.includes("@delordione")){
 client.on("messagedeleted", (channel, username, deletedMessage, userstate, tags) => {
 	if (DELCTN.has((tags['display-name']))){
 		DELCTN.set(tags['display-name'],(DELCTN.get(tags["display-name"])+1));
-		console.log([...DELCTN]);
 }else{
 	msgCtn.set(tags['display-name'],1);
-	console.log([...DELCTN]);
 }
 });
 
@@ -133,7 +130,10 @@ function writeMaxValues() {
 
     fs.appendFile('max_values.txt', log, (err) => {
         if (err) throw err;
-        console.log('Max values appended to max_values.txt');
-    });
+    });``
+    app.get('/', (req, res) => {
+        res.send(log); // Zwracamy odpowiedź tekstową
+      });
 }
+
 setInterval(writeMaxValues, 10000);

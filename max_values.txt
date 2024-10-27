@@ -1,0 +1,451 @@
+Time: 10/27/2024, 1:58:13 PM
+
+msgCtn: Key: D33ZOR, Value: 2
+repCTN: Key: kajetan_kucharski, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: gutoldwitold, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 1:58:23 PM
+
+msgCtn: Key: Haperqex, Value: 3
+repCTN: Key: Szeregowy_klubu_r,, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: gutoldwitold, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 1:58:33 PM
+
+msgCtn: Key: enz06667, Value: 5
+repCTN: Key: Szeregowy_klubu_r,, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: gutoldwitold, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 1:58:43 PM
+
+msgCtn: Key: enz06667, Value: 7
+repCTN: Key: Szeregowy_klubu_r,, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: gutoldwitold, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 1:59:02 PM
+
+msgCtn: Key: hyron_1, Value: 3
+repCTN: Key: delordione, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: peterq_, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 1:59:12 PM
+
+msgCtn: Key: hyron_1, Value: 4
+repCTN: Key: null, Value: -Infinity
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: peterq_, Value: 1
+
+Plus 1: 0
+Minus 1: 3Time: 10/27/2024, 1:59:28 PM
+
+msgCtn: Key: petarda_76, Value: 1
+repCTN: Key: null, Value: -Infinity
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: petarda_76, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 1:59:38 PM
+
+msgCtn: Key: petarda_76, Value: 1
+repCTN: Key: null, Value: -Infinity
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: petarda_76, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 1:59:50 PM
+
+msgCtn: Key: hyron_1, Value: 3
+repCTN: Key: null, Value: -Infinity
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: Pufka, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 2:02:00 PM
+
+msgCtn: Key: Szeregowy_klubu_r, Value: 2
+repCTN: Key: null, Value: -Infinity
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 2:02:15 PM
+
+msgCtn: Key: cramer_jd, Value: 3
+repCTN: Key: null, Value: -Infinity
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 2:02:25 PM
+
+msgCtn: Key: cramer_jd, Value: 3
+repCTN: Key: Karoltes, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: gutoldwitold, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 2:02:35 PM
+
+msgCtn: Key: cramer_jd, Value: 3
+repCTN: Key: Karoltes, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: gutoldwitold, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 2:02:45 PM
+
+msgCtn: Key: cramer_jd, Value: 3
+repCTN: Key: Karoltes, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: gutoldwitold, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 2:03:00 PM
+
+msgCtn: Key: boas1, Value: 1
+repCTN: Key: cramer_jd, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:05:32 PM
+
+msgCtn: Key: iIvanowski, Value: 1
+repCTN: Key: delordione, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: MaciusEU, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:05:42 PM
+
+msgCtn: Key: iIvanowski, Value: 1
+repCTN: Key: null, Value: -Infinity
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: MaciusEU, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:05:52 PM
+
+msgCtn: Key: iIvanowski, Value: 1
+repCTN: Key: null, Value: -Infinity
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: MaciusEU, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:06:02 PM
+
+msgCtn: Key: deqn___, Value: 2
+repCTN: Key: null, Value: -Infinity
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: MaciusEU, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:06:12 PM
+
+msgCtn: Key: deqn___, Value: 2
+repCTN: Key: null, Value: -Infinity
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: MaciusEU, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:08:18 PM
+
+msgCtn: Key: chrisloveer, Value: 1
+repCTN: Key: null, Value: -Infinity
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:08:28 PM
+
+msgCtn: Key: kajetan_kucharski, Value: 2
+repCTN: Key: @@, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: hellsplitter, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:08:38 PM
+
+msgCtn: Key: redtea456, Value: 2
+repCTN: Key: @@, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: hellsplitter, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:08:48 PM
+
+msgCtn: Key: redtea456, Value: 4
+repCTN: Key: @@, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: hellsplitter, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:08:58 PM
+
+msgCtn: Key: redtea456, Value: 4
+repCTN: Key: @@, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: hellsplitter, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:09:08 PM
+
+msgCtn: Key: redtea456, Value: 4
+repCTN: Key: @@, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: hellsplitter, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:09:18 PM
+
+msgCtn: Key: redtea456, Value: 4
+repCTN: Key: @@, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: hellsplitter, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:09:28 PM
+
+msgCtn: Key: redtea456, Value: 4
+repCTN: Key: @@, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: hellsplitter, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:09:38 PM
+
+msgCtn: Key: redtea456, Value: 4
+repCTN: Key: @@, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: hellsplitter, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:09:48 PM
+
+msgCtn: Key: redtea456, Value: 4
+repCTN: Key: @@, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: hellsplitter, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:09:58 PM
+
+msgCtn: Key: redtea456, Value: 4
+repCTN: Key: @@, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: hellsplitter, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:10:09 PM
+
+msgCtn: Key: xVEMUx, Value: 1
+repCTN: Key: null, Value: -Infinity
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:10:19 PM
+
+msgCtn: Key: xVEMUx, Value: 1
+repCTN: Key: kuba3d2y, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:10:29 PM
+
+msgCtn: Key: luki_poguuuuu, Value: 2
+repCTN: Key: kuba3d2y, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:10:39 PM
+
+msgCtn: Key: luki_poguuuuu, Value: 2
+repCTN: Key: kuba3d2y, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:10:49 PM
+
+msgCtn: Key: luki_poguuuuu, Value: 3
+repCTN: Key: kuba3d2y, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:10:59 PM
+
+msgCtn: Key: luki_poguuuuu, Value: 4
+repCTN: Key: kuba3d2y, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:11:09 PM
+
+msgCtn: Key: luki_poguuuuu, Value: 4
+repCTN: Key: kuba3d2y, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: nbdngu_, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:11:19 PM
+
+msgCtn: Key: luki_poguuuuu, Value: 4
+repCTN: Key: kuba3d2y, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: nbdngu_, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:11:29 PM
+
+msgCtn: Key: luki_poguuuuu, Value: 4
+repCTN: Key: kuba3d2y, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: nbdngu_, Value: 1
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:12:33 PM
+
+msgCtn: Key: orion111111111, Value: 1
+repCTN: Key: MaciusEU, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:12:43 PM
+
+msgCtn: Key: orion111111111, Value: 1
+repCTN: Key: MaciusEU, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:12:53 PM
+
+msgCtn: Key: orion111111111, Value: 1
+repCTN: Key: MaciusEU, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:13:03 PM
+
+msgCtn: Key: orion111111111, Value: 1
+repCTN: Key: MaciusEU, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0Time: 10/27/2024, 3:13:13 PM
+
+msgCtn: Key: Wertusek__, Value: 2
+repCTN: Key: MaciusEU, Value: 1
+XDCTN: Key: null, Value: -Infinity
+M1P1: Key: null, Value: -Infinity
+DELCTN: Key: null, Value: -Infinity
+ATEN: Key: null, Value: -Infinity
+
+Plus 1: 0
+Minus 1: 0
