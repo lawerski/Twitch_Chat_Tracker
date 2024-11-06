@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import ChatLog from './Chalog';
 
 
 function App() {
@@ -15,11 +16,7 @@ function App() {
   
   return (
     <div className="App">
-      <header className="App-header">
-        <input type='text'id='channelname'></input>
-        <button onClick={requestSend}>SIema</button>
-        <h1>chuj</h1>
-      </header>
+      <ChatLog></ChatLog>
     </div>
   );
 
